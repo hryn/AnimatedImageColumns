@@ -275,7 +275,7 @@ a:focus {
 }
 
 .item__content-text {
-	margin: 10vh 0 4rem 0;
+	margin: 4vh 0 4rem 0;
 	position: relative;
 	line-height: 1.5;
 }
